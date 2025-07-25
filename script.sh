@@ -1,1 +1,2 @@
 a=white
+b =blue
